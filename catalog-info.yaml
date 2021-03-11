@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Test"
+  description: "test"
+  annotations:
+    github.com/project-slug: franeksaww/Test1
+    backstage.io/techdocs-ref: url:https://github.com/franeksaww/Test1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Franek"
