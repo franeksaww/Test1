@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: franeksaww/Test1
     backstage.io/techdocs-ref: url:https://github.com/franeksaww/Test1
-    jenkins.io/github-folder: 'test-folder'
+    jenkins.io/github-folder: 'test-folder/test-job'
 spec:
   type: service
   lifecycle: experimental
