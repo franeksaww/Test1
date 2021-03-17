@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: franeksaww/Test1
     backstage.io/techdocs-ref: https://github.com/franeksaww/Test1/blob/master/mkdocs.yml
-    jenkins.io/github-folder: 'monomagic-tests'
+    jenkins.io/github-folder: 'jenkins/monomagic-tests'
 spec:
   type: service
   lifecycle: experimental
